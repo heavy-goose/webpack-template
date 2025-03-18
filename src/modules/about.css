@@ -1,0 +1,35 @@
+.about-content {
+    width: 100%;
+    height: calc(100vh - 80px);
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-statement {
+    font-style: italic;
+    width: 500px;
+    line-height: 2;
+    font-size: 1.3rem;
+    padding-bottom: 60px;
+    text-align: center;
+}
+
+.about-address {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.about-details {
+    font-size: 1rem;
+    color: #7a6350;
+    margin-top: 5px;
+    font-style: italic;
+}
+
+.about-times {
+    color: #5c4a3c;
+}

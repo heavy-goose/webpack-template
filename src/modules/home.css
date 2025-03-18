@@ -1,0 +1,22 @@
+.home-content {
+    height: calc(100vh - 80px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.restaurant-name {
+    font-family: "Meie Script", serif;
+    font-size: 7rem;
+    color: #333;
+    text-shadow: 1px 2px 6px rgba(0, 0, 0, 0.3);
+    user-select: none;
+}
+
+.tagline {
+    font-size: 1.2rem;
+    color: #333333c4;
+    user-select: none;
+}
