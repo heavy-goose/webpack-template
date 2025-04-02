@@ -1,2 +1,2 @@
+import "./reset.css";
 import "./styles.css";
-import "./comeau_reset.css";
