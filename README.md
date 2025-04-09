@@ -37,7 +37,7 @@ This is a customizable Webpack 5 template designed for efficient project setup a
 To start the development server with live reloading:
 
 ```bash
-npm start
+npm run dev
 ```
 
 This will serve the project at `http://localhost:8080/`.
